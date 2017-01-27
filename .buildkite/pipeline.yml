@@ -1,0 +1,6 @@
+steps:
+  - name: Build
+    command: scripts/buildkite-build.sh
+    agents:
+      queue: greenmoon
+
