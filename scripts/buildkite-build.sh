@@ -2,4 +2,5 @@
 set -e
 
 
-echo "Building"
+echo "Building.."
+echo "test.."
