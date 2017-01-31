@@ -3,4 +3,4 @@ set -e
 
 
 echo "Building.."
-echo "test"
+echo "test.."
